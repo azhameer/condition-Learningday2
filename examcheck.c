@@ -2,7 +2,7 @@
 
 int main() {
     int a;
-    printf("Masukkan nilai a: ");
+    printf("Masukkan nilai ujian: ");
     scanf("%d", &a);
 
    if (a > 90) {
